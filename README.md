@@ -2,3 +2,6 @@
 ## Introduction
 
 Archivo de prueba
+
+## Cambio de Manuel
+Cambio de Manuel
